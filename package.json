@@ -1,0 +1,16 @@
+{
+  "name": "ng-weather-backend",
+  "version": "1.0.0",
+  "description": "A hapi.js backend for storing moods and activities for the ng-weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Kigen",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "mongoose": "^5.3.5",
+    "nodemon": "^1.18.4"
+  }
+}
