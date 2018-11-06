@@ -2,7 +2,7 @@
   "name": "ng-weather-backend",
   "version": "1.0.0",
   "description": "A hapi.js backend for storing moods and activities for the ng-weather app",
-  "main": "index.js",
+  "main": "server/server.js",
   "scripts": {
     "test": "mocha server/test/**.spec.js"
   },
